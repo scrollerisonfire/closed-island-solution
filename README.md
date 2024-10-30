@@ -1,9 +1,8 @@
 ClosedIslandCounter
-IslandExplorer
-BinaryIslandDetector
-IslandCount
-WaterSurroundedIslands
-Описание:
+ IslandExplorer
+ BinaryIslandDetector
+ IslandCount
+ WaterSurroundedIslands
 "Counts the number of closed islands in a binary matrix."
 "A program to detect islands surrounded by water in a grid."
 "This project identifies and counts closed islands within a binary matrix."
